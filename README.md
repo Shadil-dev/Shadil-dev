@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<h1>Hi, I'm Shadil! <br> <a href="https://github.com/Shadil-dev">Programmer</a>, <a href="https://www.linkedin.com/in/shadil">Search Engine Specialist</a></h1>
 <!--
 **Shadil-dev/Shadil-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

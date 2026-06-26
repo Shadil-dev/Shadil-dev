@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 ```ts
-const shadil = {
+const Shadil = {
   role      : "Software Development Engineer",
   location  : "Bangalore, India 🇮🇳",
   education : "B.Tech CSE — Blockchain · Presidency University",

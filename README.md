@@ -157,7 +157,7 @@ const shadil = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadil-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadil-dev&show_icons=true&hide=stars,prs,issues&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadil-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=3b82f6&text_color=ffffff" height="165" />
 </div>

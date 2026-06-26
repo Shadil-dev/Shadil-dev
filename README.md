@@ -114,7 +114,7 @@ const shadil = {
       <img src="https://img.shields.io/badge/🔜%20Public%20Live%20Demo-Coming%20Soon-gray?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>📦 Order Reorder Prediction</h3>
+      <h3>📦 OrderSense: Order Data Intelligence & Forecasts</h3>
       <p>A <strong>Spring Boot prediction engine</strong> for goods traders integrating with Zoho Inventory. Uses exponential weighted averages and linear regression to forecast reorder dates, with automated email alerts and REST API dashboards.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
